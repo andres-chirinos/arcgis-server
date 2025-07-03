@@ -1,7 +1,7 @@
 project_name: arcgis-server-etl
 description: ETL project for ArcGIS Server data extraction and processing.
 author: Andres Chirinos
-created_date: 2025-06-01
+created_date: 2025-07-02
 version: 1.0.0
 
 output_dir: output
